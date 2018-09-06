@@ -1,3 +1,8 @@
+/**
+ *  LEHI QUINCHO MAMANI
+ *  COMPUTACION GRAFICA
+**/
+
 #include <GL/glut.h>
 #include <math.h>
 #include <cmath>
