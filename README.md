@@ -1,5 +1,6 @@
 # Computaci-n-Grafica
 ```c
+
 inp_to_ndc(double , double)
 {
   ndcx = dcx / ndh-1;
@@ -9,15 +10,15 @@ inp_to_ndc(double , double)
 
 ndc_to_user(double , double)
 {
-  x= ndcx*2-1;
-  y= ndcy*2-1;
+  x= ndcx*100;
+  y= ndcy*100;
   return x,y;
 }
 
 user_to_ndc(double , double)
 {
-  ndcx=(x+1)/2;
-  ndcy=(y+1)/2;
+  ndcx=x/100;
+  ndcy=y/100;
   return ndcx,ndcy;
 }
 
@@ -27,4 +28,5 @@ ndc_to_dc(double , double)
   dcy=round(ndcy*(ndv-1));
   return dcx,dcy;
 }
+
 ```
