@@ -1,5 +1,5 @@
 # Computaci-n-Grafica
-
+```c
 inp_to_ndc(double , double)
 {
   ndcx = dcx / ndh-1;
@@ -27,3 +27,4 @@ ndc_to_dc(double , double)
   dcy=round(ndcy*(ndv-1));
   return dcx,dcy;
 }
+```
