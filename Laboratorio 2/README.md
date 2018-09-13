@@ -1,5 +1,7 @@
 # Laboratorio 2
 
+Lehi Quincho M.
+
 Compilar con:
 ```
 g++ tortugaConMovimiento.cpp -o main  -lGL -lGLU -lglut
