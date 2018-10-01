@@ -138,8 +138,8 @@ void display()
 		addPointToTrace();
 		glMultMatrixd(mModel);
 		glColor3f(1.0,0.0,0.0);
-//		drawTurtle(0.0,0.0);
-glutWireTeapot(.5);
+		drawTurtle(0.0,0.0);
+
 
 	glPopMatrix();
 	
