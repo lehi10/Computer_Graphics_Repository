@@ -74,3 +74,11 @@ Resultado:
 ![Linea en 3D](https://github.com/lehi10/Computaci-n-Grafica/blob/master/ResolucionExamen/imgs/pregunta3.png)
 
 
+## Algoritmo de la parabola
+
+El archivo con el código se encuentra en pregunta4.cpp
+
+Resultado:
+
+![Linea en 3D](https://github.com/lehi10/Computaci-n-Grafica/blob/master/ResolucionExamen/imgs/pregunta4.png)
+
