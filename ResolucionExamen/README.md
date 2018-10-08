@@ -41,7 +41,7 @@ con los nuevos vectores unitarios rx, ry y rz, construirémos nuestra matriz de 
 [[-2/3	1/3		2/3		0],
 [2/3	2/3		1/3		0],
 [-1/3	2/3		-2/3	0],
-[0	0	0	1]]
+[0		0		0		1]]
 ```
 ## Mover y transformar los puntos
 Para tener nuestros puntos finales en los lugares deseados, primero necesitamos mover los puntos A, B y C al origen, y luego aplicar la matriz de transformación. Para esto se multiplica la matriz de traslación o desplazamiento con los valoes t1, t2 y t3 iguales a -1, esto debido a que el punto B tiene las coordenadas (1,1,1).
