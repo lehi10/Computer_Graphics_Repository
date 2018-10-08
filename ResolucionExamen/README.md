@@ -10,11 +10,13 @@ g++ -std=c++11 pregunta3.cpp -o main -lGL -lGLU -lglut
 g++ -std=c++11 pregunta4.cpp -o main -lGL -lGLU -lglut
 
 ```
-para las preguntas 2, 3 y 4 respectivamente.
+Para las preguntas 2, 3 y 4 respectivamente.
+
+Al ejecutar en C++ se pueden usar las teclas w, a, s, d para realizar rotaciones al grafico  + y - para escalar la imagen.
 
 
 
-# Usando las propiedades de Vectores ortogonales, transformar los siguientes puntos , C en el plano XY, y A en el eje X
+## Usando las propiedades de Vectores ortogonales, transformar los siguientes puntos , C en el plano XY, y A en el eje X
 
 Se hallan los vectores unitarios ortogonales para cada eje (X,Y y Z).
 ```
@@ -43,7 +45,7 @@ con los nuevos vectores unitarios rx, ry y rz, construirémos nuestra matriz de 
 [-1/3	2/3		-2/3	0],
 [0		0		0		1]]
 ```
-## Mover y transformar los puntos
+### Mover y transformar los puntos
 Para tener nuestros puntos finales en los lugares deseados, primero necesitamos mover los puntos A, B y C al origen, y luego aplicar la matriz de transformación. Para esto se multiplica la matriz de traslación o desplazamiento con los valoes t1, t2 y t3 iguales a -1, esto debido a que el punto B tiene las coordenadas (1,1,1).
 ```
 [[1,	0		0		-1],
@@ -63,7 +65,12 @@ Los puntos unidos con los segmentos rosados son los puntos transformados A', B' 
 
 
 
+## Algoritmo de linea en 3D
 
+El archivo con el código se encuentra en pregunta3.cpp
 
+Resultado:
+
+![Linea en 3D](https://github.com/lehi10/Computaci-n-Grafica/blob/master/ResolucionExamen/imgs/pregunta3.png)
 
 
