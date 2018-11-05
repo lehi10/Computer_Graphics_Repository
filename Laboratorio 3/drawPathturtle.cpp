@@ -135,6 +135,7 @@ void display()
 		glRotatef( rotaZ, 0.0, 0.0, 1.0 );
 
 		glTranslatef(trnsX, trnsY, trnsZ);		
+		
 		addPointToTrace();
 		glMultMatrixd(mModel);
 		glColor3f(1.0,0.0,0.0);
