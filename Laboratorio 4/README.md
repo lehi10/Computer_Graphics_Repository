@@ -14,14 +14,14 @@ g++ main.cpp camera.cpp -o main vector_tools.cpp -lglut -lGL -lGLU
 
 ```
 
-![Image of Turtle](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/ortho1.png)
+![Image ortho view](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/ortho1.png | width=100)
 
-![Image of Turtle](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/ortho2.png)
+![Image ortho view](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/ortho2.png)
 
 
-![Image of Turtle](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/perspec1.png)
+![Image perspective view](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/perspec1.png)
 
-![Image of Turtle](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/perspec2.png)
+![Image perspective view](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/perspec2.png)
 
 ## Programar otros modos de movimiento de cámara como son el MODO PAN o el MODO TRÍPODE.
 
@@ -66,10 +66,10 @@ case CAM_PAN:
 	break;
 ```
 
-![Image of Turtle](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/pan.png)
+![Image pan mode](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/pan.png)
 
 
 ### MODO TRIPODE 
 
-![Image of Turtle](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/tripode.png)
+![Image tripode mode](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/tripode.png)
 
