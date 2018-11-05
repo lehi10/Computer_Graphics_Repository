@@ -14,7 +14,7 @@ g++ main.cpp camera.cpp -o main vector_tools.cpp -lglut -lGL -lGLU
 
 ```
 
-![Image ortho view](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/ortho1.png | width=100)
+![Image ortho view](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/ortho1.png | width=70)
 
 ![Image ortho view](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Laboratorio%204/img/ortho2.png)
 
