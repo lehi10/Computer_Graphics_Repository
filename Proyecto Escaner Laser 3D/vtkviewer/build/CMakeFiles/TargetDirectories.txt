@@ -1,0 +1,3 @@
+/home/lehi/Escritorio/graficaProject/vtkviewer/build/CMakeFiles/edit_cache.dir
+/home/lehi/Escritorio/graficaProject/vtkviewer/build/CMakeFiles/rebuild_cache.dir
+/home/lehi/Escritorio/graficaProject/vtkviewer/build/CMakeFiles/GenericDataObjectReader.dir

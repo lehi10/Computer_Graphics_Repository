@@ -1,0 +1,3 @@
+/home/lehi/Escritorio/graficaProject/viewer/build/CMakeFiles/rebuild_cache.dir
+/home/lehi/Escritorio/graficaProject/viewer/build/CMakeFiles/edit_cache.dir
+/home/lehi/Escritorio/graficaProject/viewer/build/CMakeFiles/cloud_viewer.dir
