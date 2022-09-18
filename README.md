@@ -1,8 +1,4 @@
-# Computación Grafica 
-
-### Lehi Quincho
-Ciencia de la Computación
-Universidad Nacional de San Agustín
-
-2018
-
+# Nombres y apellidos
+### Lenguajes de programación II
+### Nombre de la carrera
+## 2022
