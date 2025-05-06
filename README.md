@@ -22,23 +22,27 @@ The scanner consists of a physical prototype where:
 ## 📸 Results
 
 ### 🦔 Hedgehog
-
-![Hedgehog 1](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Proyecto%20Escaner%20Laser%203D/Resultados/erizo2.jpeg)
-![Hedgehog 2](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Proyecto%20Escaner%20Laser%203D/Resultados/erizo01.png)
-
+<div style="display: flex; gap: 10px; align-items: center;">
+<img src="https://raw.githubusercontent.com/lehi10/Computaci-n-Grafica/master/Proyecto%20Escaner%20Laser%203D/Resultados/erizo2.jpeg" width="300"  />
+<img src="https://raw.githubusercontent.com/lehi10/Computaci-n-Grafica/master/Proyecto%20Escaner%20Laser%203D/Resultados/erizo01.png" width="300" />
+</div>
 ---
 
 ### 🧸 Doll Head
-
-![Doll Head 1](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Proyecto%20Escaner%20Laser%203D/Resultados/cabeza.jpeg)
-![Doll Head 2](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Proyecto%20Escaner%20Laser%203D/Resultados/cabeza1.png)
+<div style="display: flex; gap: 10px; align-items: center">
+<img src="https://raw.githubusercontent.com/lehi10/Computaci-n-Grafica/master/Proyecto%20Escaner%20Laser%203D/Resultados/cabeza.jpeg" width="300" />
+<img src="https://raw.githubusercontent.com/lehi10/Computaci-n-Grafica/master/Proyecto%20Escaner%20Laser%203D/Resultados/cabeza1.png" width="300" />
+</div>
 
 ---
 
 ### 🪑 Chair
+<div style="display: flex; gap: 10px; align-items: center">
+<img src="https://raw.githubusercontent.com/lehi10/Computaci-n-Grafica/master/Proyecto%20Escaner%20Laser%203D/Resultados/silla1.jpeg" width="300" />
+<img src="https://raw.githubusercontent.com/lehi10/Computaci-n-Grafica/master/Proyecto%20Escaner%20Laser%203D/Resultados/silla01.png" width="300" />
+</div>
 
-![Chair 1](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Proyecto%20Escaner%20Laser%203D/Resultados/silla1.jpeg)
-![Chair 2](https://github.com/lehi10/Computaci-n-Grafica/blob/master/Proyecto%20Escaner%20Laser%203D/Resultados/silla01.png)
+---
 
 ---
 
