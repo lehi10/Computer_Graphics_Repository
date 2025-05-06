@@ -1,7 +1,6 @@
 # 🎯 Final Project – 3D Laser Scanner
 
 **Author**: Lehi Quincho M.  
-**Student ID (CUI)**: 20122586  
 
 This project is a 3D laser scanner built using **C++** and **OpenCV**, developed as part of a university-level computer graphics course. The system captures the geometry of real-world objects using a rotating platform, a line laser, and a camera, and reconstructs them into a 3D point cloud.
 
